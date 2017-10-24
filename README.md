@@ -7,8 +7,16 @@
 ## install ruby-opencv
 
 ```bash
+$ bundle install --path vendor/bundle
+```
+
+or
+
+```bash
 $ gem install ruby-opencv
 ```
+
+when latter case, remove `require 'bundler/setup'` in [pick_up_yuri_face.rb](/pick_up_yuri_face.rb) line 1.
 
 ## collect Yuri's images
 - by `Google Image Search`
