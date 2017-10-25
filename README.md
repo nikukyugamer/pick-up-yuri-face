@@ -21,7 +21,7 @@ when latter case, remove `require 'bundler/setup'` in [pick_up_yuri_face.rb](/pi
 ## collect Yuri's images
 - by `Google Image Search`
 - collect 10 images in this case
-    - input_images/yuuri_[01-10].jpg
+    - input_images/yuri_[01-10].jpg
 
 ## classifier
 - I used `Haar-like` classifier
@@ -34,7 +34,7 @@ $ ruby pick_up_yuri_face.rb
 ```
 
 # output result
-- You can gain Yuri's face images in `output_images/yuuri_[01-10]_face_region.jpg` as below
+- You can gain Yuri's face images in `output_images/yuri_[01-10]_face_region.jpg` as below
 
 ## from yuri_01.jpg (successful)
 
