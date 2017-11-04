@@ -57,5 +57,5 @@ class PickUpYuriFace
   end
 end
 
-yuuri = PickUpYuriFace.new
-yuuri.main
+yuri = PickUpYuriFace.new
+yuri.main
