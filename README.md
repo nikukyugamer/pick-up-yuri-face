@@ -30,6 +30,12 @@ when latter case, remove `require 'bundler/setup'` in [pick_up_yuri_face.rb](/pi
 # exec script
 
 ```bash
+$ bundle exec ruby pick_up_yuri_face.rb
+```
+
+or
+
+```bash
 $ ruby pick_up_yuri_face.rb
 ```
 
